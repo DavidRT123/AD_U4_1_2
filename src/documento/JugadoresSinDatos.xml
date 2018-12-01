@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--DTD-->
+
+<!DOCTYPE Jugadores>
+<Jugadores>
+	<Jugador nacionalidad="ES">
+		<nombre></nombre>
+		<horas_jugadas></horas_jugadas>
+		<nivel></nivel>
+		<puntuacion></puntuacion>
+	</Jugador>
+	<Jugador nacionalidad="US">
+		<nombre></nombre>
+		<horas_jugadas></horas_jugadas>
+		<nivel></nivel>
+		<puntuacion></puntuacion>
+	</Jugador>
+	<Jugador nacionalidad="CO">
+		<nombre></nombre>
+		<horas_jugadas></horas_jugadas>
+		<nivel></nivel>
+		<puntuacion></puntuacion>
+	</Jugador>
+	<Jugador nacionalidad="IT">
+		<nombre></nombre>
+		<horas_jugadas></horas_jugadas>
+		<nivel></nivel>
+		<puntuacion></puntuacion>
+	</Jugador>
+	<Jugador nacionalidad="US">
+		<nombre></nombre>
+		<horas_jugadas></horas_jugadas>
+		<nivel></nivel>
+		<puntuacion></puntuacion>
+	</Jugador>
+	<Jugador nacionalidad="ES">
+		<nombre></nombre>
+		<horas_jugadas></horas_jugadas>
+		<nivel></nivel>
+		<puntuacion></puntuacion>
+	</Jugador>
+</Jugadores>
